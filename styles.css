@@ -1,0 +1,70 @@
+.TextoLogo {
+            margin: 40px;
+            background-color: lightgray;
+            height: 80px;
+            width: 200px;
+            position: relative;
+
+}
+.TextoLogo:before{
+    content: "LOGO";
+             font-family: Arial;
+             font-size: 70px;
+             align-items: center;
+             justify-content: center 
+}
+
+.Texto2 {
+    margin: 00px;
+            background-color: lightgray;
+            top: -100px;
+            left: 600px;
+            height: 50px;
+            width: 400px;
+            position: relative;
+ 
+}
+.Texto2:before{
+    content: "HOME                Sobre nós                Contato";
+             font-family: Arial;
+             font-size: 20px;
+}
+.Titulo{
+            margin: 30px;
+            background-color:lightgray;
+            height: 100px;
+            width: 300px;
+            position: relative; 
+}
+.Titulo:before{
+    content: "Titulo";
+             font-family: Arial;
+             font-size: 100px;
+}
+.Titulo2{
+            background-color: lightgray;
+            height: 100px;
+            width: 500px;
+            top: -100px;
+            left: 600px ;
+            position: relative; 
+}
+.Titulo2:before{
+    content: "Titulo";
+             font-family: Arial;
+             font-size: 100px;
+}
+.Titulo3{
+            margin: 30px;
+            background-color:lightgray;
+            height: 300px;
+            width: 300px;
+            top: -100px;
+            
+            position: relative; 
+}
+.Titulo3:before{
+    content: "Titulo";
+             font-family: Arial;
+             font-size: 100px;
+}
